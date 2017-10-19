@@ -1,0 +1,10 @@
+{
+	"user":"Dontsov",
+	"project":"/home/dilberd/iot/dashboard",
+	"redmineLogin":"",
+	"redminePassword":"",
+	"redmineKey":"",
+	"redmineHost":"https://pm.ossystem.ua",
+	"redmineTimeEntries":"/time_entries.xml",
+	"redmineProjectId":"171"
+}

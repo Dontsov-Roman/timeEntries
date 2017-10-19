@@ -1,0 +1,128 @@
+2017-09-22
+ remove branch (HEAD -> OSF-932, origin/OSF-932) 
+ Merge branch 'OSF-932' of github.com:IoTSystems/dashboard into OSF-932 
+ OSF-932 Update defaultProps in HudsonDashboard 
+ OSF-932 Update defaultProps in HudsonDashboard 
+ remove branch 
+ Merge branch 'master' into OSF-932 
+ OSF-932 Made getChartTitle as props func 
+ OSF-1021 (origin/master, origin/HEAD, master) 
+  Remove branch from travis 
+ OSF-932 Update styles for headerRightComponent onRowSelection 
+ OSF-932 Made getVariatorItems as function 
+ OSF-932 Fix DeviceBySizeVariator,  fetching 
+ OSF-932 Make Tabs controlled 
+ OSF-932 Add hourly tab to hudson dashboard 
+2017-09-22
+ remove branch (HEAD -> OSF-932, origin/OSF-932) 
+ Merge branch 'OSF-932' of github.com:IoTSystems/dashboard into OSF-932 
+ OSF-932 Update defaultProps in HudsonDashboard 
+ OSF-932 Update defaultProps in HudsonDashboard 
+ remove branch 
+ Merge branch 'master' into OSF-932 
+ OSF-932 Made getChartTitle as props func 
+ OSF-1021 (origin/master, origin/HEAD, master) 
+  Remove branch from travis 
+ OSF-932 Update styles for headerRightComponent onRowSelection 
+ OSF-932 Made getVariatorItems as function 
+ OSF-932 Fix DeviceBySizeVariator,  fetching 
+ OSF-932 Make Tabs controlled 
+ OSF-932 Add hourly tab to hudson dashboard 
+2017-10-04
+2017-10-09
+ OSF-946 Remove branch from travis (HEAD -> OSF-946, origin/OSF-946) 
+ OSF-946 Optimize after merge 
+ Merge branch 'master' into OSF-946 
+ OSF-946 remove travis branch 
+ OSF-946 Update styles 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 AddEquipments button update 
+2017-10-09
+ OSF-946 Remove branch from travis (HEAD -> OSF-946, origin/OSF-946) 
+ OSF-946 Optimize after merge 
+ Merge branch 'master' into OSF-946 
+ OSF-946 remove travis branch 
+ OSF-946 Update styles 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 AddEquipments button update 
+2017-10-09
+ OSF-946 Remove branch from travis (HEAD -> OSF-946, origin/OSF-946) 
+ OSF-946 Optimize after merge 
+ Merge branch 'master' into OSF-946 
+ OSF-946 remove travis branch 
+ OSF-946 Update styles 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 AddEquipments button update 
+2017-10-09
+ OSF-946 Remove branch from travis (HEAD -> OSF-946, origin/OSF-946) 
+ OSF-946 Optimize after merge 
+ Merge branch 'master' into OSF-946 
+ OSF-946 remove travis branch 
+ OSF-946 Update styles 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 AddEquipments button update 
+2017-10-09
+ OSF-946 Remove branch from travis (HEAD -> OSF-946, origin/OSF-946) 
+ OSF-946 Optimize after merge 
+ Merge branch 'master' into OSF-946 
+ OSF-946 remove travis branch 
+ OSF-946 Update styles 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 AddEquipments button update 
+2017-10-09
+ OSF-946 Remove branch from travis (HEAD -> OSF-946, origin/OSF-946) 
+ OSF-946 Optimize after merge 
+ Merge branch 'master' into OSF-946 
+ OSF-946 remove travis branch 
+ OSF-946 Update styles 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 AddEquipments button update 
+2017-10-09
+ OSF-946 Remove branch from travis (HEAD -> OSF-946, origin/OSF-946) 
+ OSF-946 Optimize after merge 
+ Merge branch 'master' into OSF-946 
+ OSF-946 remove travis branch 
+ OSF-946 Update styles 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 Update WelcomeBack page 
+ OSF-946 AddEquipments button update 
+2017-10-10
+ OSF-1061 Optimization (HEAD -> OSF-1061, origin/OSF-1061) 
+ OSF-1061 Add branch to travis 
+ OSF-1061 Update ReportsContainer 
+ OSF-1061 Dashboards,Reports 
+ OSF-1061 Dashboards 
+2017-10-11
+ OSF-1061 Done, but too much copy-past code)) (HEAD -> OSF-1061, origin/OSF-1061) 
+ OSF-1061 Update Report Template 
+ OSF-1061 Update Report Template 
+ OSF-1061 Update reducers, containers 
+ OSF-1061 Optimization 
+ OSF-1061 Remove debugger from action 
+ OSF-1061 Update Headers....working with willReceiveProps.... 
+2017-10-12
+ OSF-1061 
+ OSF-1061 
+ OSF-1061 Fixes buttons, names 
+ OSF-1061 Fixes buttons, names. 
+2017-10-17
+ OSF-946 (HEAD -> master, origin/master, origin/HEAD) 
+2017-10-18
+ OSF-940 (HEAD -> master, origin/master, origin/HEAD) 
+ OSF-712 (tag: 0.158.0) 
+ OSF-1067 
+ OSF-1064 
+2017-10-19
