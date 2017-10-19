@@ -20,6 +20,7 @@ You need to update config.json, enter required params:
 	"redmineTimeEntries":"/time_entries.xml",
 	"redmineProjectId":""
 }
+For redmineProjectId run `sh ./getProject.sh` and find there required project_id
 ```
 ### Then
 You can run a scripts:
