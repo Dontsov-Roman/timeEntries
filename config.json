@@ -6,5 +6,6 @@
 	"redmineKey":"",
 	"redmineHost":"https://pm.ossystem.ua",
 	"redmineTimeEntries":"/time_entries.xml",
-	"redmineProjectId":"171"
+	"redmineProjectId":"171",
+	"contentLength":"255"
 }

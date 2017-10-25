@@ -18,7 +18,8 @@ You need to update config.json, enter required params:
 	"redmineKey":"",
 	"redmineHost":"https://pm.ossystem.ua",
 	"redmineTimeEntries":"/time_entries.xml",
-	"redmineProjectId":""
+	"redmineProjectId":"",
+	"contentLength":"255"
 }
 For redmineProjectId run `sh ./getProject.sh` and find there required project_id
 ```
