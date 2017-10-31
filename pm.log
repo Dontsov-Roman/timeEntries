@@ -144,3 +144,15 @@
  OSF-1087 
  Dynamic imports (origin/master, origin/HEAD, master) 
  OSF-1069 
+2017-10-25
+ OSF-1093 (HEAD -> master, origin/master, origin/HEAD) 
+ OSF-1087 Incorrect pagination behavior at dashboard creating page 
+2017-10-26
+ OSF-1103 Update default RightComponent in header (HEAD -> OSF-1103, origin/OSF-1103) 
+2017-10-30
+ OSF-1104 (HEAD -> master, origin/master, origin/HEAD) 
+2017-10-31
+ Fixes (HEAD -> Fixes31-10-17, origin/OSF-1109) 
+ OSF-1109 (origin/master, origin/HEAD, master) 
+ OSF-905 
+ OSF-1101 

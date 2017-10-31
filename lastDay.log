@@ -1,8 +1,5 @@
-2017-10-24
- OSF-1087 remove console.logs (HEAD -> OSF-1087, origin/OSF-1087) 
- Remove branch from .travis.yml 
- OSF-1087 Update DESC_DIFFERENCE_IN_ARRAY constant, optimize using constants 
- Merge branch 'master' into OSF-1087 
- OSF-1087 
- Dynamic imports (origin/master, origin/HEAD, master) 
- OSF-1069 
+2017-10-31
+ Fixes (HEAD -> Fixes31-10-17, origin/OSF-1109) 
+ OSF-1109 (origin/master, origin/HEAD, master) 
+ OSF-905 
+ OSF-1101 

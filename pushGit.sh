@@ -7,7 +7,7 @@ login=$(jshon -e redmineLogin -u < config.json)
 password=$(jshon -e redminePassword -u < config.json)
 contentLength=$(jshon -e contentLength -u < config.json)
 addr=${host}${entries}
-lastDay=$(more lastDay.log | head -c $contentLength)
+lastDay=$(cat lastDay.log | head -c $contentLength)
 key='X-Redmine-API-Key: '${redmineKey}
 data='{"time_entry":{"project_id":"'${project_id}'", "hours":8, "comments":"'${lastDay}'"}}'
 
